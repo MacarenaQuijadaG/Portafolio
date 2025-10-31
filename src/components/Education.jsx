@@ -21,7 +21,7 @@ const Education = () => {
             Especialización en Seguridad Informatica Windows Server y Linux
           </Title>
           <p style={{ color: "var(--color-light)" }}>InforCap, Talento Digital</p>
-          <a href="https://app.aluracursos.com/user/mcarena-quijada/fullCertificate/812759e3a5b93c8d3db0089c32a7e835" target="_blank" style={{ color: "var(--color-accent)" }} >Insignia Digital</a>
+          <a href="https://www.acreditta.com/credential/8489f2b6-4dcc-4a5d-89ba-ff7f1465cf93?utm_source=linkedin_profile&resource_type=badge&resource=8489f2b6-4dcc-4a5d-89ba-ff7f1465cf93&trk=public_profile_see-credential" target="_blank" style={{ color: "var(--color-accent)" }} >Insignia Digital</a>
           <a href="./files/DescargarCertificado.pdf" style={{ color: "var(--color-accent)", marginLeft: "30px" }} download>Descargar Certificación</a>
         </Timeline.Item>
         <Timeline.Item
