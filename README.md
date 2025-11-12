@@ -2,7 +2,7 @@
 
 Este proyecto es un portafolio personal desarrollado con **React** y **Vite**. Su objetivo es presentar mi experiencia, habilidades y certificaciones como desarrolladora Frontend, así como ofrecer una forma de contacto profesional.
 
-## Objetivo del Proyecto
+## Objetivo del Proyecto 
 
 El portafolio tiene como propósito:
 - Mostrar mi trayectoria profesional y académica.
